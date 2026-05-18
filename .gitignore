@@ -1,3 +1,5 @@
 node_modules
 .agents
 .env.local
+.vercel
+.env*.local
